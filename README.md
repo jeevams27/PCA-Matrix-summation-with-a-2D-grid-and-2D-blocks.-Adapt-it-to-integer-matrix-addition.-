@@ -14,8 +14,8 @@ To implement Matrix summation with 2D grids and blocks.
 9. Reset the GPU device
 ## Program:
 ```
-Developed by: Paul Andrew D
-Register number: 212221230075
+Developed by: JEEVA MS
+Register number: 212221230040
 ```
 
 ### Integer Matrix Addition
